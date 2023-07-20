@@ -45,6 +45,20 @@ Loss function:
 | ![Picture12](https://github.com/BenceBiricz/Medical_Instrument_Segmentation/assets/71565433/01e8730d-58ce-4989-a896-714e2e695e5f) | ![Picture13](https://github.com/BenceBiricz/Medical_Instrument_Segmentation/assets/71565433/2be9f2fc-1cf8-4bdb-b7a6-d641fe0ec028) |
 | --- | --- |
 
+The values obtained at the end of the learning:
+- Loss: 0.0638
+- Loss validation: 0.1165 
+- Accuracy: 0.9932
+- Accuracy validation: 0.9773
+
+# Results
+
+| ![1](https://github.com/BenceBiricz/Medical_Instrument_Segmentation/assets/71565433/57f4be58-07e3-4d56-be71-68f32fa0947a) | ![2](https://github.com/BenceBiricz/Medical_Instrument_Segmentation/assets/71565433/ce7f53b6-a7ca-4376-ae8c-07e6282ec651) |
+| --- | --- |
+| ![3](https://github.com/BenceBiricz/Medical_Instrument_Segmentation/assets/71565433/d6532861-a295-4e68-9aec-7f2877a1dfce)| ![4](https://github.com/BenceBiricz/Medical_Instrument_Segmentation/assets/71565433/742c2dc4-b7b8-40de-afb2-6069cbc382bc) |
+
+
+
 
 
 
