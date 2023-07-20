@@ -59,7 +59,13 @@ The values obtained at the end of the learning:
 
 ## Video:
 
-![ezgif com-video-to-gif](https://github.com/BenceBiricz/Medical_Instrument_Segmentation/assets/71565433/a50f4ec4-05ff-407c-8440-e04b33f5aaeb)
+| ![ezgif com-video-to-gif](https://github.com/BenceBiricz/Medical_Instrument_Segmentation/assets/71565433/a50f4ec4-05ff-407c-8440-e04b33f5aaeb) | ![2](https://github.com/BenceBiricz/Medical_Instrument_Segmentation/assets/71565433/0782aed8-1532-426e-9d1f-8418ad83417b) | ![3](https://github.com/BenceBiricz/Medical_Instrument_Segmentation/assets/71565433/fb382149-7c04-48ea-9ea8-3b2150983488) |
+| --- | ---| --- |
+
+
+
+
+
 
 
 
